@@ -35,13 +35,13 @@
 ---
 
 ### 🧾 Withdraw Funds
-![Withdraw](images/withdraw.png)  
+![Withdraw](images/withdrawal.png)  
 *Checks for sufficient balance before processing withdrawal.*
 
 ---
 
 ### 📋 View Transaction History
-![Transaction History](images/transactions.png)  
+![Transaction History](images/view_transactions.png)  
 *Prints a log of all transactions done by the account.*
 
 ---
@@ -77,7 +77,6 @@ javac Main.java BankSystem.java Account.java SavingsAccount.java
 ### 2. Run the application
 ```
 java Main
-
 ```
 
 ---
@@ -103,8 +102,8 @@ java Main
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by **HARI PRASATH K**  
-🚀 Java Developer Intern @ **Elevate Lab**
+Made with ❤️ by **[!HARI PRASATH K](https://github.com/hariPrasathK-Dev)**  
+🚀 Java Developer Intern @ **Elevate Labs**
 
 ---
 
