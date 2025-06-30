@@ -15,6 +15,7 @@ public class BankSystem {
             System.out.println("6) Exit");
             System.out.print("Enter your Choice: ");
             choice = scanner.nextInt();
+            scanner.nextLine();
 
             switch (choice) {
                 case 1 -> createAccount();
@@ -53,7 +54,7 @@ public class BankSystem {
         int accNo = scanner.nextInt();
         for(Account account : accounts)
         {
-            if (account.accountNumber==accno) {
+            if (account.accountNumber== accNo) {
                 return account ;
             }
         }
