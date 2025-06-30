@@ -41,7 +41,7 @@
 ---
 
 ### 📋 View Transaction History
-![Transaction History](images/view_transactions.png)  
+![Transaction History](images/view_transaction.png)  
 *Prints a log of all transactions done by the account.*
 
 ---
